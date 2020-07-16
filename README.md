@@ -10,3 +10,5 @@
 
 - 📫 Contactame por correo electronico jesus.bedoy@kodice.dev o en la pagina de [Kodice](https://kodice.dev/)
 
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JesusBedoy)](https://github.com/anuraghazra/github-readme-stats)
