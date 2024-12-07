@@ -1,14 +1,8 @@
 ## Hola!! Gracias por visitar my github :notebook:
-###### Jesus Antonio Bedoy (Front-End Web Developer)
+###### Jesus Antonio Bedoy (Full stack developer)
 
 
-- :post_office: Actualmente trabajo en el departamento de informatica en el municipio de mi ciudad.
-
-- 🌱 Mi lenguage principal es javascript, por lo cual uso react y nodejs [React](https://es.reactjs.org/docs/getting-started.html).
-
-- 💬 Trabajo en el equipo de kodice con colaboracion de [Eduardo](https://github.com/JoseeCosio) y [Efren](https://github.com/efren-cabrera).
-
-- 📫 Contactame por correo electronico jesus.bedoy@kodice.dev o en la pagina de [Kodice](https://kodice.dev/)
+- 🌱 Mi stack principal es React,.NET y Mysql..
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JesusBedoy)](https://github.com/anuraghazra/github-readme-stats)
